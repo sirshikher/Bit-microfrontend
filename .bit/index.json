@@ -1,0 +1,154 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/react"
+    },
+    "isSymlink": false,
+    "hash": "acfc8a808ec3ad8abacd313c9c8b456c1fd7b0b3"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/get-babel-options"
+    },
+    "isSymlink": false,
+    "hash": "d4771e232e52a7a9ef391bf363d523bc932b014d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/babel-base-compiler"
+    },
+    "isSymlink": false,
+    "hash": "98f497a5e1cba818d2d5da02020ed566a572b936"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/group-by"
+    },
+    "isSymlink": false,
+    "hash": "9155f60c15a0d4c1c0301f15ef2a09a99687ca77"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "button"
+    },
+    "isSymlink": true,
+    "hash": "7b7fcc78d6cd1507925b769b1386ced3683f99c7"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "table"
+    },
+    "isSymlink": true,
+    "hash": "c3ee137d4f22eb06ed1351d644f3674592c90836"
+  },
+  {
+    "id": {
+      "scope": "sirshikher.react-compo",
+      "name": "table"
+    },
+    "isSymlink": false,
+    "hash": "8a645d8499ec5f0db73f63ef7eb0aca1fba77057"
+  },
+  {
+    "id": {
+      "scope": "sirshikher.react-compo",
+      "name": "button"
+    },
+    "isSymlink": false,
+    "hash": "7c0fe760ac85d0dd5d49255b4f3f7b1842463cb5"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "avtar"
+    },
+    "isSymlink": true,
+    "hash": "7824c750a4df3f16e33adc71a67890dbb10d80d4"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "input"
+    },
+    "isSymlink": true,
+    "hash": "140f86aae51ab9e1cda9b4254fe98a74eb54c1a1"
+  },
+  {
+    "id": {
+      "scope": "sirshikher.react-compo",
+      "name": "input"
+    },
+    "isSymlink": false,
+    "hash": "7747b67606866289ef8319c676682396a70906b5"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "search-select"
+    },
+    "isSymlink": true,
+    "hash": "5dbb7f0f655cc4920ad57ceb086d11503304824b"
+  },
+  {
+    "id": {
+      "scope": "sirshikher.react-compo",
+      "name": "search-select"
+    },
+    "isSymlink": false,
+    "hash": "8d9aa2235d87a1789b95bef85819e09a4d65b580"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "card"
+    },
+    "isSymlink": true,
+    "hash": "2ab0591dbcf5fefdad65f3a10ae4155b91890fed"
+  },
+  {
+    "id": {
+      "scope": "sirshikher.react-compo",
+      "name": "card"
+    },
+    "isSymlink": false,
+    "hash": "261437eb95ea6edc565b6f5b5b44128dc95ca01b"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "multiple-select"
+    },
+    "isSymlink": true,
+    "hash": "72d7b042dc8439073d933c4a3037c2fafb330d0f"
+  },
+  {
+    "id": {
+      "scope": "sirshikher.react-compo",
+      "name": "avtar"
+    },
+    "isSymlink": false,
+    "hash": "cb8d6c001cb9353fa8a09c6ba29555346185d69b"
+  },
+  {
+    "id": {
+      "scope": "sirshikher.react-compo",
+      "name": "multiple-select"
+    },
+    "isSymlink": false,
+    "hash": "00e3443098d035bf5bd498094e0d66e383c05f7f"
+  }
+]

@@ -1,0 +1,44 @@
+.form-row {
+  .row-item {
+    display: inline-block;
+  }
+}
+
+.ant-form-item-required::after {
+  display: inline-block;
+  margin-left: 4px;
+  color: #f5222d;
+  font-size: 14px;
+  font-family: SimSun, sans-serif;
+  line-height: 1;
+  content: "*" !important;
+}
+
+.ant-form-item-required::before {
+  content: "";
+}
+
+.margin-top-bottom-4 {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.margin-bottom-24 {
+  margin-bottom: 24px !important;
+}
+
+.normal-text {
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.radio-group-setting {
+  display: "block" !important;
+  height: 30px !important;
+  line-height: 30px !important;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "react-components",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.26.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.0"
+  },
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.5"
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm",
+    "overrides": {
+      "sirshikher.react-compo/button": {
+        "env": {
+          "compiler": "bit.envs/compilers/react@1.0.5"
+        }
+      }
+    }
+  }
+}
